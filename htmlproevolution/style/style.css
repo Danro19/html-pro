@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+header {
+    width: 80%;
+    height: 20vh;
+    border: 2px solid black;
+    position: relative;
+    left: 10%;
+    background-color: orangered;
+}
+nav{
+    background-color: rgb(14, 180, 180);
+    width: 40%;
+    position: relative;
+    left: 60%;
+    top: 73%;
+    border-radius: 10px;
+    height: 19%;
+    text-align: justify;
+    color: white;
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin-right: 10px;
+    margin-top: 7px;
+    
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.cajaMaestra1 {
+    border: 2px solid black;
+    width: 80%;
+    height: 60vh;
+    position: relative;
+    left: 10%;
+    
+}
+
